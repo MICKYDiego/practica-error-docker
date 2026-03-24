@@ -33,3 +33,5 @@ Dockerizarla requeriría actualizar el código fuente, lo cual excede
 el alcance de una tarea de containerización.
 Esta situación es común en apps legacy y requiere intervención del equipo
 de desarrollo antes de continuar.
+
+Esta app se clono de una repo de github para realizar pruebas y practicas. https://github.com/gothinkster/flask-realworld-example-app
